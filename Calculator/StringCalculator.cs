@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace Calculator
 {
-    public class StringCalculator
+    public class static StringCalculator
     {
         public static int Add(string numbers)
         {
